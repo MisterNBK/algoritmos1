@@ -22,7 +22,8 @@
                     break;
                 }
             }
-        if (!teste) break;
+        if (!teste) 
+            break;
         }
 
         if (teste){
